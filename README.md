@@ -75,7 +75,8 @@ Output Graph
 
 
 Tablular Column
-![exp_2_tab](https://github.com/user-attachments/assets/64d2f595-ee7d-42e0-8c2f-98d352b7f93b)
+![Dsbsc modulator](https://github.com/user-attachments/assets/39f6940a-b067-468b-87e6-640f309930c4)
+
 
 
 Result
